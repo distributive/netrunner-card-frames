@@ -6,7 +6,7 @@ I recommend you read this document, even if briefly, before using these files. T
 
 ![A card fan displaying a variety of cards using the frames in this repository](cardFan.png)
 
-If you need any help creating cards with my frames, or find any issues with these assets, please do not hesitate to contact me! I am `@distributive` on Discord (please first find me at `discord.gg/glc` if we have not spoken before). I will not help you put frames on AI-generated images.
+If you need any help creating cards with my frames, or find any issues with these assets, please do not hesitate to contact me! I am `@distributive` on Discord (please first find me in the Green Level Clearance (GLC) Discord server if we have not spoken before). I will not help you put frames on AI-generated images.
 
 Before printing your alt arts, ensure they conform to Null Signal Games' organised play policies: https://nullsignal.games/organizers/organized-play-policies/ (apendix III).
 
