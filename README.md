@@ -4,6 +4,8 @@ This is a collection of full-bleed Netrunner frames for use in creating Netrunne
 
 I recommend you read this document, even if briefly, before using these files. There are a lot of layers, many providing hidden features and caveats.
 
+![A card fan displaying a variety of cards using the frames in this repository](cardFan.png)
+
 If you need any help creating cards with my frames, or find any issues with these assets, please do not hesitate to contact me! I am `@distributive` on Discord (please first find me at `discord.gg/glc` if we have not spoken before). I will not help you put frames on AI-generated images.
 
 Before printing your alt arts, ensure they conform to Null Signal Games' organised play policies: https://nullsignal.games/organizers/organized-play-policies/ (apendix III).
