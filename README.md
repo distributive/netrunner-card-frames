@@ -13,6 +13,11 @@ Before printing your alt arts, ensure they conform to Null Signal Games' organis
 All placeholder art is my own.
 
 ---
+## Updates
+
+`2026/10/17` - Added a smaller title bar variant and a simplified play/install cost box
+
+---
 ## Requirements
 
 The .xcf files contained within were made with GIMP, a free and open-source image editor. You are free to attempt to attempt to modify these files using any editor of your choice, but I cannot guarantee they will convert cleanly.
