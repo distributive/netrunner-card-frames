@@ -15,6 +15,7 @@ All placeholder art is my own.
 ---
 ## Updates
 
+`2026/10/25` - Set neutral influence pips to be hidden by default
 `2026/10/17` - Added a smaller title bar variant and a simplified play/install cost box
 
 ---
@@ -44,7 +45,7 @@ Hide all layers in `Text Boxes/Bottom Text Box/BTB Primary/BTB Primary Colours` 
 
 If you do not want to use the darker default frames for the title boxes, and instead use ones coloured to match the card's faction, hide all layer groups in `Text Boxes/Top Text Box/TTB Factions` except the group matching your desired faction. If you do, you will need to change the colour of the title text to black (unless you are making an Apex card).
 
-If you do not want to use the default neutral grey influence pips, hide all layer groups in `Influence/Influence Factions` except the one corresponding to your desired faction. You may also optionally choose to choose the simplified flat versions of the influence pips by hiding the `Pips` layer within that group and swapping it with the `Pips Simple` layer. 
+To set the influence of your card, hide all layer groups in `Influence/Influence Factions` except the one corresponding to your desired faction. You may also optionally choose to choose the simplified flat versions of the influence pips by hiding the `Pips` layer within that group and swapping it with the `Pips Simple` layer. To set the influence value, you will need to manually delete pips so that only the correct number remain.
 
 For identities, you will also need to hide all layer groups in `Text Boxes/Faction Indicators` except the one matching your desired faction.
 
